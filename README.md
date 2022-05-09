@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/tanjuntao/github-stats">
   <p align='center'>
     <img src="https://github.com/tanjuntao/github-stats/blob/master/generated/overview.svg"/>
-    <!-- <img src="https://github.com/mattnix4/github-stats/blob/master/generated/languages.svg"/> -->
+    <img src="https://github.com/tanjuntao/github-stats/blob/master/generated/languages.svg"/>
   </p>
 </a>
 
