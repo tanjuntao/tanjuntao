@@ -83,6 +83,9 @@ Here are some ideas to get you started:
 </p>
 -->
 
+<p align="center">
+  <a href="https://wakatime.com/@8aef6bb9-0443-49a8-b064-b67582c4ffdd"><img src="https://wakatime.com/badge/user/8aef6bb9-0443-49a8-b064-b67582c4ffdd.svg" alt="Total time coded since May 30 2022" /></a>
+</p>
 
 <!-- Visitor -->
 <p align="right">
