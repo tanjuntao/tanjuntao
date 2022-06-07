@@ -48,7 +48,14 @@ Here are some ideas to get you started:
 <!-- SKILLS -->
 <p align="center">
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
-  <img alt='Linux' src='https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
+  <img alt='Linux' src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black'/>
+  <img alt='Numpy' src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img alt='PyTorch' src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+  <img alt='scikit-learn' src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt='git' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt='GitHub' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+
 </p>
   
 
