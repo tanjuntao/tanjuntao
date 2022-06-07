@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Visitor -->
-<p align="right">
+<p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=tanjuntao&repo=tanjuntao&countColor=%2308E8FF"/>
 </p>
 
