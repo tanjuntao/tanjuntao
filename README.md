@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 </a>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 <!-- SKILLS -->
 <p align="center">
   <img alt='Python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>
