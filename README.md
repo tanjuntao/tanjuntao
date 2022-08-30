@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [![tanjuntao's github stats](https://github-readme-stats.vercel.app/api?username=tanjuntao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-### Hi there 👋
+![](./github-header-image.png)
 
 <!-- PROFILE VIEW 
 <p align="center">  
