@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [![tanjuntao's github stats](https://github-readme-stats.vercel.app/api?username=tanjuntao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![](./github-header-image.png)
+![](new_header.png)
 
 <!-- PROFILE VIEW 
 <p align="center">  
@@ -97,4 +97,6 @@ Here are some ideas to get you started:
 </p>
 
 
-  
+<!-- https://github.com/anmol098/waka-readme-stats  -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
