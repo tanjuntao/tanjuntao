@@ -99,4 +99,30 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anmol098/waka-readme-stats  -->
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2051%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   9 hrs 31 mins       ███████████████████████░░   92.84 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Git                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Shell Script             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+
+🔥 Editors: 
+PyCharm                  9 hrs 49 mins       ████████████████████████░   95.74 % 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+
+💻 Operating System: 
+Mac                      10 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/04/2023 14:22:42 UTC
 <!--END_SECTION:waka-->
