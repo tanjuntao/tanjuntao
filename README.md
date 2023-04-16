@@ -45,8 +45,9 @@ Here are some ideas to get you started:
 </a>
 
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!-- https://github.com/anmol098/waka-readme-stats  -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <!-- SKILLS -->
@@ -97,6 +98,3 @@ Here are some ideas to get you started:
 </p>
 
 
-<!-- https://github.com/anmol098/waka-readme-stats  -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
