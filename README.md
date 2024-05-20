@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- [![tanjuntao's github stats](https://github-readme-stats.vercel.app/api?username=tanjuntao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![](new_header.png)
+<!-- ![](new_header.png) -->
 
 <!-- PROFILE VIEW 
 <p align="center">  
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 
 <!-- STREAK STATS -->
-<p align="center"> 
+<!-- <p align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=tanjuntao&amp;theme=leafy&amp;date_format=j%20M%5B%20Y%5D&amp;ring=047884&amp;sideNums=06ACBD&amp;dates=06ACBD&amp;currStreakNum=08E8FF&amp;currStreakLabel=08E8FF&amp;background=ffffff00&amp;hide_border=true" alt="GitHub Streak Stats"/>
     <br>
-</p>
+</p> -->
 
 
 <!-- STATS -->
@@ -84,7 +84,10 @@ Mac                      7 hrs 41 mins       ███████████�
   <img alt='GitHub' src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img alt='latex' src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
   <img alt='shell' src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img alt='shell' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt='flask' src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img alt='docker' src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
+
 
 </p>
   
