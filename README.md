@@ -53,13 +53,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 54 mins        ████████████████████████░   94.44 % 
+TeX                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 48 mins        ██████████████████████░░░   89.21 % 
+PyCharm                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
