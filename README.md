@@ -53,16 +53,16 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 7 mins        ███████████████████████░░   93.93 % 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Python                   6 hrs 20 mins       ████████████████████████░   94.48 % 
+CSV                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TeX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        ███████████████████████░░   93.88 % 
-PyCharm                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+VS Code                  6 hrs 22 mins       ████████████████████████░   95.01 % 
+PyCharm                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Mac                      5 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
