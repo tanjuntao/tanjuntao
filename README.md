@@ -53,18 +53,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        ███████████████░░░░░░░░░░   60.05 % 
-TeX                      1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-CSV                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TeX                      3 hrs 23 mins       █████████████░░░░░░░░░░░░   53.99 % 
+Python                   2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.13 % 
+CSV                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 9 mins        ████████████████████░░░░░   80.87 % 
-PyCharm                  58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+VS Code                  4 hrs 53 mins       ███████████████████░░░░░░   77.83 % 
+PyCharm                  1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
 
 💻 Operating System: 
-Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
