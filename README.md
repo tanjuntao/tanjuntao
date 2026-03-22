@@ -53,14 +53,14 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      18 hrs 3 mins       █████████████████████████   99.88 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TeX                      21 hrs 32 mins      █████████████████████████   99.90 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  21 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      21 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
