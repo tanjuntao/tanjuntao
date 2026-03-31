@@ -53,18 +53,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      24 hrs 32 mins      █████████████████████░░░░   82.76 % 
-Markdown                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-BibTeX                   1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+TeX                      23 hrs 34 mins      ████████████████████░░░░░   79.10 % 
+Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+BibTeX                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 48 mins      █████████████████████████   100.00 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      29 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 
