@@ -47,21 +47,6 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anmol098/waka-readme-stats  -->
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TeX                      46 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      46 mins             █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
