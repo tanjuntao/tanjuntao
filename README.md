@@ -53,13 +53,15 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      1 hr 11 mins        ██████████████░░░░░░░░░░░   55.45 % 
+Markdown                 57 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
