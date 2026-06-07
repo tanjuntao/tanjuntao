@@ -47,27 +47,6 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anmol098/waka-readme-stats  -->
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 37 mins             ██████████░░░░░░░░░░░░░░░   41.85 % 
-Text                     25 mins             ███████░░░░░░░░░░░░░░░░░░   28.89 % 
-Python                   20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-CSV                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-
-🔥 Editors: 
-VS Code                  1 hr 2 mins         █████████████████░░░░░░░░   69.35 % 
-PyCharm                  13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Claude Code              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-
-💻 Operating System: 
-Mac                      1 hr 29 mins        █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
