@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anmol098/waka-readme-stats  -->
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2034%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -55,19 +55,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Markdown                 7 hrs 29 mins       █████████████░░░░░░░░░░░░   53.78 % 
+Python                   3 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+C++                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+textmate                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TOML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+Unknown Editor           5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.87 % 
+PyCharm                  3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Codex Vscode             2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Codex CLI                2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      13 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 7 hrs 35 mins (54.55%)
+
+✍️ 2,812 lines written by AI, 115 lines written by hand (96.07% AI-written)
+
+🔤 6,986,797 Input Tokens, 524,711 Output Tokens
+
+💵 $112.38 Estimated AI Cost This Week
+
+🧠 37 AI Sessions, 117 AI Prompts
+
+GPT                      2,833 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.07% of written lines came from AI
+📚 Verbose Prompter — average 16,871 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 4.48% of changed lines were hand-edited
 ```
 
 
