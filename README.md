@@ -55,42 +55,42 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               7 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
-Other                    5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   26.62 % 
-Markdown                 4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Python                   1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JavaScript               7 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.20 % 
+Other                    4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Markdown                 4 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Python                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 29 mins      ██████████████░░░░░░░░░░░   55.19 % 
-VS Code                  9 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.27 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Codex Vscode             10 hrs 3 mins       ██████████████░░░░░░░░░░░   54.36 % 
+VS Code                  8 hrs 19 mins       ███████████░░░░░░░░░░░░░░   45.04 % 
+Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Mac                      20 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 9 mins (87.23%)
+⏱ AI Coding Time: 16 hrs 5 mins (86.99%)
 
-✍️ 4,717 lines written by AI, 121 lines written by hand (97.5% AI-written)
+✍️ 4,014 lines written by AI, 121 lines written by hand (97.07% AI-written)
 
-🔤 26,435,855 Input Tokens, 1,333,356 Output Tokens
+🔤 24,570,356 Input Tokens, 1,194,032 Output Tokens
 
-💵 $837.86 Estimated AI Cost This Week
+💵 $797.32 Estimated AI Cost This Week
 
-🧠 89 AI Sessions, 363 AI Prompts
+🧠 77 AI Sessions, 270 AI Prompts
 
-GPT                      4,059 lines         █████████████████████░░░░   83.97 % 
-Codex-Vscode             775 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+GPT                      3,275 lines         ████████████████████░░░░░   80.86 % 
+Codex-Vscode             775 lines           █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.5% of written lines came from AI
-📚 Verbose Prompter — average 5,662 characters per prompt
+🤖 AI-Driven — 97.07% of written lines came from AI
+📚 Verbose Prompter — average 5,634 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 2.98% of changed lines were hand-edited
+🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 
