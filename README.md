@@ -55,26 +55,26 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 11 hrs 30 mins      ████████████████████░░░░░   78.86 % 
-Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Swift                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 11 hrs 24 mins      ████████████████████░░░░░   78.72 % 
+Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Swift                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Other                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 33 mins      ██████████████████░░░░░░░   72.34 % 
-Codex Vscode             4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+VS Code                  10 hrs 27 mins      ██████████████████░░░░░░░   72.15 % 
+Codex Vscode             4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
 
 💻 Operating System: 
-Mac                      14 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (30.8%)
+⏱ AI Coding Time: 4 hrs 29 mins (31.01%)
 
-✍️ 2,807 lines written by AI, 608 lines written by hand (82.2% AI-written)
+✍️ 2,807 lines written by AI, 542 lines written by hand (83.82% AI-written)
 
 🔤 2,879,316 Input Tokens, 396,687 Output Tokens
 
@@ -85,10 +85,10 @@ Mac                      14 hrs 35 mins      ███████████�
 GPT                      2,807 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.2% of written lines came from AI
+🤖 AI-Driven — 83.82% of written lines came from AI
 📚 Verbose Prompter — average 2,523 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 28.58% of changed lines were hand-edited
+🚀 High AI Trust — 26.86% of changed lines were hand-edited
 ```
 
 
